@@ -79,7 +79,7 @@ body {
 /* Header */
 /*-----------------------------------------------------------------------------------*/
 #header {
-  background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("../img/header_bg.jpg") no-repeat fixed 0 0 rgba(0, 0, 0, 0);
+  background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("../img/header_bg.jpg") no-repeat rgba(0, 0, 0, 0);
   display: table;
   background-color:black;
   width: 100%;
