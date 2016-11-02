@@ -67,7 +67,7 @@ body {
   padding-right: 20px !important;
 }
 .parallax-bg1 {
-  background: url("../img/parallax-bg1.jpg") no-repeat fixed 0 0 rgba(0, 0, 0, 0);
+  background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("../img/parallax-bg1.jpg") no-repeat 0 0 rgba(0, 0, 0, 0);
 }
 .parallax-bg2 {
   background: url("../img/parallax-bg2.jpg") no-repeat fixed 0 0 rgba(0, 0, 0, 0);
