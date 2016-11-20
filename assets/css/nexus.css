@@ -45,6 +45,11 @@ body {
   color: #656565;
   height: 100%;
 }
+
+body.modal-open {
+    overflow: visible;
+}
+
 #header,
 .parallax-bg1,
 .parallax-bg2,
